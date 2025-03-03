@@ -430,3 +430,7 @@ footer {
 footer p {
     text-align: center;
 }
+
+.nav-links-container {
+    font-weight: bold;
+}
