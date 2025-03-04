@@ -303,6 +303,10 @@ section {
     text-align: center;
 }
 
+.details-container p {
+    margin-bottom: 30px;
+}
+
 .section-container {
     gap: 4rem;
     height: 80%;
